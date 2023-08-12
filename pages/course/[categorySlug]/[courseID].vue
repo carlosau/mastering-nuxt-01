@@ -26,5 +26,9 @@ const matchingItem = courseItems.find(item => route.params.courseID === item.slu
     <vsl
     :vslLink="matchingItem.vsl" 
     />
+    <h2 class="font-bold">About</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto saepe consequuntur quaerat quas delectus quisquam ipsum error, eius, veritatis corporis distinctio at ducimus harum a recusandae dignissimos, magni facere amet?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto saepe consequuntur quaerat quas delectus quisquam ipsum error, eius, veritatis corporis distinctio at ducimus harum a recusandae dignissimos, magni facere amet?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto saepe consequuntur quaerat quas delectus quisquam ipsum error, eius, veritatis corporis distinctio at ducimus harum a recusandae dignissimos, magni facere amet?</p>
   </div>
 </template>
